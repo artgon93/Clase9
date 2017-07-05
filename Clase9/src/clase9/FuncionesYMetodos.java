@@ -53,6 +53,10 @@ public class FuncionesYMetodos {
         return str;              
     }
     
+//3. Cree un método que invierta los elementos de un vector. Debe resolver este 
+//ejercicio desde 0 y no puede crear un vector auxiliar para su solución, debe 
+//trabajar desde el vector original.    
+    
     
     
     
