@@ -35,19 +35,9 @@ public class FuncionesYMetodos {
 //2. Cree una función que almacene los números en un String separados por “” y 
 //retorne esta hilera. Esta es la función imprimir, que se encarga de desplegar
 //un vector en pantalla.    
-
-    public int[] iniciarVec(int[] vector){
-        int vec[] = vector;
-        for (int i=0; i<=vec.length-1; i++){       
-            vec[i]=(int) (Math.random()*30+1);            
-        }
-        return vec;              
-    }    
     
     
-    
-    
-    
+//Nota se cambia el "" por ", "  
     public String mostrarVec(int[] vec){
         String str ="";
         for (int i=0; i<=vec.length-1; i++){       
